@@ -1,0 +1,43 @@
+#schoolname img{
+    bottom: 0;
+    width: 1500px;
+    height: 500px;
+}
+#myNavbar a{
+    color: rgb(137, 235, 146);
+
+}
+.travelmainDiv{
+    border: 1px solid lightgrey;
+}
+.travelmainDiv img{
+    width: 100%;
+}
+.travelmainDiv h5{
+    margin: 20px;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.movie_head i{
+    float: right;
+}
+.achievement_text span{
+    color: orange;
+}
+.whatsnew{
+    margin-bottom: 20px;
+
+}
+#contactus iframe{
+    width: 100%;
+}
+ 
+
+
+
+
+
